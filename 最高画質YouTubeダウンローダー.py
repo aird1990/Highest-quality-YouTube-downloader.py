@@ -1,6 +1,6 @@
 # 注意 事前にPythonをインストールする必要があります。またPytubeとmoviepyもインストールする必要があります。
-# urlのところにダウンロードしたい動画のurlを張ってください
-# download_folderのところにダウンロードしたいところのフォルダのパスを張ってください
+# url = '  ' のところにダウンロードしたい動画のurlを張ってください
+# download_folder =  '  ' のところにダウンロードしたいところのフォルダのパスを張ってください。その2行以外はいじらなくて大丈夫です。
 import pytube
 url = 'https://www.youtube.com/watch?v=6iERC2SSNvc'
 download_folder = 'C:/Users/AIR-D/Desktop'
