@@ -1,4 +1,4 @@
-# Highest-quality-YouTube-downloader.py
+# 最高画質YouTubeダウンローダー.py
 
 まずpythonの開発環境を整える必要があります。
 そしてPytubeとmoviepyをインストールする必要があります。
