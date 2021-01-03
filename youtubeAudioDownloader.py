@@ -10,10 +10,10 @@
 # 注意 事前にPythonをインストールする必要があります。またPytubeもmoviepyもインストールする必要があります。
 # url = ' ' のところにダウンロードしたい動画のurlを張ってください
 # download_folder = ' ' のところにダウンロードしたいところのフォルダのパスを張ってください。その2行以外はいじらなくて大丈夫です。
-
 import pytube
 url = 'https://www.youtube.com/watch?v=QDX-1GuF2Gs'
 download_folder = 'C:/Users/AIR-D/Desktop'
+
 
 
 format_list2 = pytube.YouTube(url).streams.filter(mime_type='audio/mp4').first().download(download_folder)
