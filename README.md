@@ -1,4 +1,8 @@
-# 最高画質YouTubeダウンローダー.py
+# 最高画質YouTubeダウンローダー.py / Highest quality YouTube downloader.py
+
+
+
+This program downloads the highest quality YouTube. You have to install python.  And You have to install "Pytube" and "MoviePy".
 
 まずpythonの開発環境を整える必要があります。
 そしてPytubeとmoviepyをインストールする必要があります。
