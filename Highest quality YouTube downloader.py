@@ -1,4 +1,6 @@
-# You have to install "Python". And You have to install "Pytube" and "MoviePy".
+# Attention, please!
+# First of all, you have to install "Python". And You have to install "Pytube" and "MoviePy".
+
 # url = ' '  　←YouTube URL
 # download_folder = ' '   ←Download folder path
 import pytube
