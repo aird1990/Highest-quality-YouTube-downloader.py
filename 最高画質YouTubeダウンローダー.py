@@ -1,4 +1,4 @@
-# 注意 事前にPytubeとmoviepyをインストールする必要があります。
+# 注意 事前にPythonをインストールする必要があります。またPytubeとmoviepyもインストールする必要があります。
 # urlのところにダウンロードしたい動画のurlを張ってください
 # download_folderのところにダウンロードしたいところのフォルダのパスを張ってください
 import pytube
