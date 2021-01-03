@@ -2,7 +2,8 @@
 
 
 
-This program downloads the highest quality YouTube. You have to install python.  And You have to install "Pytube" and "MoviePy".
+This program downloads the highest quality YouTube video. 
+You have to install python.  And You have to install "Pytube" and "MoviePy".
 
 まずpythonの開発環境を整える必要があります。
 そしてPytubeとmoviepyをインストールする必要があります。
