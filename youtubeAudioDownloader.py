@@ -8,8 +8,8 @@
 
 # このプログラムは、YouTubeのaudio/mp4ファイルをダウンロードします。そしてmp4をmp3に変換します。
 # 注意 事前にPythonをインストールする必要があります。またPytubeもmoviepyもインストールする必要があります。
-# urlのところにダウンロードしたい動画のurlを張ってください
-# download_folderのところにダウンロードしたいところのフォルダのパスを張ってください
+# url = ' ' のところにダウンロードしたい動画のurlを張ってください
+# download_folder = ' ' のところにダウンロードしたいところのフォルダのパスを張ってください。その2行以外はいじらなくて大丈夫です。
 
 import pytube
 url = 'https://www.youtube.com/watch?v=QDX-1GuF2Gs'
